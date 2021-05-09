@@ -1,0 +1,1 @@
+Para ter acesso a aplicação, é necessário somente baixar ou clonar este repositório, e executar "Mercado2.exe".
